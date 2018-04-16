@@ -1,0 +1,62 @@
+body, html {
+    height: 100%;
+    text-align: center;
+}
+not_center {
+    text-align: right;
+    padding-right: 20%;
+}
+
+#rain_parallax {
+    /* The image used */
+    background-image: url("https://wearechange.org/wp-content/uploads/2015/03/1_See_It.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#armful_parallax {
+    /* The image used */
+    background-image: url("https://thumbs.dreamstime.com/b/cartoon-schoolboy-lots-school-things-44759495.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#puddle_parallax {
+    /* The image used */
+    background-image: url("https://iso.500px.com/wp-content/uploads/2017/04/stock-photo-189250479.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#rain_parallax2 {
+        /* The image used */
+    background-image: url("http://blog.epa.gov/blog/wp-content/uploads/science/2012/09/Raininthecity.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
